@@ -211,11 +211,15 @@ Things I've explored and continue to develop:
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arumaniesss34-commits&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumaniesss34-commits&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=arumaniesss34-commits&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arumaniesss34-commits&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
