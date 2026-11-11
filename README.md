@@ -212,12 +212,12 @@ Things I've explored and continue to develop:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arumaniesss34&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumaniesss34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arumaniesss34-commits&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumaniesss34-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumaniesss34&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumaniesss34-commits&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
