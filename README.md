@@ -1,155 +1,224 @@
-# Hi, I'm Arum Wigati! 👋
+<!-- Profile Header -->
 
-### 💻 IT Student | Network Engineering | Cloud Computing | Linux System Administration
+<h1 align="center">Hi, I'm Arum Wigati 👋</h1>
 
-Welcome to my GitHub profile!
+<h3 align="center">IT Student | Network Engineering | Cloud Computing</h3>
 
-I'm a student at **SMK Negeri 1 Kota Bekasi**, majoring in **Computer and Network Engineering (TKJ)**. I'm passionate about exploring IT infrastructure, network engineering, server administration, and cloud computing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+and+Network+Engineering+Student;Exploring+Network+Infrastructure;Learning+Linux+%26+Server+Administration;Building+My+Cloud+Computing+Skills" alt="Typing SVG" />
+</p>
 
-I enjoy learning new technologies, building hands-on projects, solving technical problems, and documenting my learning journey through practical labs and experiments.
-
-My goal is to continuously improve my technical skills and grow into a professional in the IT industry.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Network%20Engineering-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Cloud%20Computing-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🎓 Education
+## 👩🏻‍💻 About Me
 
-**SMK Negeri 1 Kota Bekasi**
+Hello! I'm **Arum Wigati**, an IT student at **SMK Negeri 1 Kota Bekasi**, majoring in **Computer and Network Engineering (TKJ)**.
 
-- Major: Computer and Network Engineering (TKJ)
-- Study Period: 2024 – 2027
-- Focus: Networking, Linux, Server Administration, and Cloud Computing
+I'm interested in network infrastructure, system administration, Linux environments, and cloud computing. I enjoy exploring new technologies, working on hands-on technical projects, troubleshooting network problems, and documenting everything I learn.
+
+I believe that practical experience is an important part of becoming a better IT professional. Through school projects, networking labs, and internship experience, I'm continuously developing my technical knowledge and problem-solving skills.
+
+- 🎓 **Education:** SMK Negeri 1 Kota Bekasi
+- 📚 **Major:** Computer and Network Engineering (TKJ)
+- 📅 **Study Period:** 2024 – 2027
+- 🌐 **Location:** Indonesia
+- 💡 **Interests:** Networking, Linux, Server Administration & Cloud Computing
+- 🌱 **Currently Learning:** Network Infrastructure & Cloud Technologies
+
+---
 
 ## 🏆 Achievements & Experience
 
-- Completed a 6-month internship (PKL) at **Suku Dinas Komunikasi, Informatika dan Statistik Kota Administrasi Jakarta Timur**.
-- Gained hands-on experience in Digital Infrastructure and Network Services.
-- Practiced network monitoring and connectivity troubleshooting.
-- Worked with MikroTik devices and WinBox for network configuration and monitoring.
-- Experienced in LAN cable installation, crimping, and cable testing.
-- Practiced DHCP Server configuration and Static Lease management.
-- Explored server administration and network infrastructure through practical labs.
-- Learned and practiced cloud computing concepts using AWS.
+### Internship Experience — PKL 2026
+
+**Suku Dinas Komunikasi, Informatika dan Statistik Kota Administrasi Jakarta Timur**
+
+*Digital Infrastructure Section | January – June 2026*
+
+During my internship, I gained practical experience in network infrastructure management, digital services, and IT operations.
+
+**Activities & Responsibilities:**
+- Monitored network devices and connectivity using MikroTik and WinBox.
+- Performed network connectivity testing using ping and web access verification.
+- Practiced LAN cable installation, RJ45 crimping, and cable testing.
+- Configured DHCP Server and Static Lease on MikroTik.
+- Assisted with IP address configuration and network documentation.
+- Observed and practiced basic network troubleshooting.
+
+### Technical Learning Experience
+
+- Practiced network configuration using MikroTik RouterOS.
+- Built multi-router network topologies using PNETLab.
+- Explored Linux server administration using Ubuntu Server.
+- Configured virtualized server environments using Proxmox.
+- Completed AWS Cloud Computing practical labs.
+- Practiced DNS and network authentication services.
+
+---
 
 ## 🛠️ Technical Skills & Technologies
 
-**Networking**
-- MikroTik RouterOS & WinBox
+### Networking & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-D50000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-6366F1?style=for-the-badge" />
+</p>
+
 - IP Addressing & Subnetting
 - VLAN & Inter-VLAN Routing
-- Static Routing & Dynamic Routing Concepts
+- Static Routing
 - DHCP Server & Static Lease
-- DNS Server
-- NAT & Load Balancing (ECMP)
+- DNS Configuration
+- NAT & Firewall Fundamentals
+- ECMP Load Balancing
 - LAN Installation & Troubleshooting
-- Cisco Networking
 
-**Server Administration**
-- Linux (Ubuntu Server)
-- Proxmox VE
-- VirtualBox
-- Web Server
-- Database Server
-- File Server
-- Application Server
-- FreeRADIUS Authentication
+### Linux & Server Administration
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+- Linux Command Line Interface (CLI)
+- Ubuntu Server 24.04
+- Proxmox Virtualization & LXC
+- Web Server Administration
+- Database Server Fundamentals
+- File Server & Application Server
 - BIND9 DNS Server
+- FreeRADIUS Authentication
+- SSH & Remote Server Management
 
-**Cloud Computing**
+### Cloud Computing
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 - AWS Cloud Fundamentals
 - Amazon EC2
 - Amazon VPC
 - Amazon S3
-- AWS Lambda
-- Amazon CloudFront
+- AWS Lambda Fundamentals
+- Amazon CloudFront Fundamentals
+- Cloud Infrastructure & Networking Concepts
 
-**Tools & Platforms**
-- Git & GitHub
-- WinBox
-- PNETLab
-- PuTTY
-- Cisco Networking Tools
-- Windows CMD
-- Linux Terminal
+### Tools & Platforms
 
-## 🚀 Featured Projects & Hands-on Labs
-
-### 🌐 Networking Projects
-
-**1. MikroTik DHCP Server with Static Lease**
-- Configured DHCP Server on MikroTik RouterOS.
-- Assigned static IP addresses based on device MAC addresses.
-- Tested client connectivity and IP address allocation.
-
-**2. MikroTik ECMP Load Balancing**
-- Configured two internet gateways using MikroTik RouterOS v7.
-- Implemented Equal-Cost Multi-Path (ECMP) routing.
-- Tested connectivity and monitored network traffic.
-
-**3. VLAN & Inter-VLAN Routing**
-- Created multiple VLANs in a simulated network environment.
-- Configured VLAN gateways and inter-VLAN communication.
-- Practiced network segmentation using PNETLab.
-
-**4. Static Routing with PNETLab**
-- Built a multi-router network topology.
-- Configured static routes between multiple routers.
-- Tested connectivity between different network segments.
-
-**5. LAN Cable Installation & Crimping**
-- Practiced UTP cable installation and RJ45 connector crimping.
-- Used LAN cable testers to verify cable connectivity.
-
-### 🖥️ Server & Linux Projects
-
-**6. Virtualized Server Infrastructure with Proxmox**
-- Deployed Proxmox in a virtualized environment.
-- Created Ubuntu Server 24.04 LXC containers.
-- Prepared separate environments for Web, Database, File, and Application Servers.
-
-**7. DNS Server Configuration with BIND9**
-- Practiced DNS server installation and configuration.
-- Created DNS zone files and domain records.
-- Validated DNS configuration using Linux commands.
-
-**8. FreeRADIUS Authentication Server**
-- Installed and configured FreeRADIUS on Ubuntu Server.
-- Tested user authentication using `radtest`.
-- Verified authentication responses through Access-Accept.
-
-### ☁️ Cloud Computing Projects
-
-**9. AWS VPC & EC2 Web Server Lab**
-- Explored Amazon VPC and its networking components.
-- Configured security groups.
-- Launched an EC2 instance.
-- Practiced deploying a basic web server.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PNETLab-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WinBox-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PuTTY-4E9A06?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20CMD-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## 📚 What I'm Currently Learning
+## 🚀 Featured Projects & Practical Labs
 
-- Advanced Network Configuration
-- Linux Server Administration
-- DNS & Network Services
-- Cloud Infrastructure with AWS
-- Virtualization using Proxmox
+A collection of my hands-on projects and technical exercises throughout my Computer and Network Engineering studies.
+
+### 🌐 Network Engineering
+
+| Project | Description | Technologies |
+|---|---|---|
+| **MikroTik DHCP Server & Static Lease** | Configuring DHCP services and assigning static IP addresses to clients based on MAC addresses. | MikroTik, WinBox |
+| **ECMP Load Balancing** | Implementing two internet gateways with equal-cost routing and monitoring network traffic. | MikroTik RouterOS v7 |
+| **VLAN & Inter-VLAN Routing** | Building segmented networks and configuring communication between different VLANs. | MikroTik, Cisco, PNETLab |
+| **Static Routing Lab** | Building a multi-router topology and configuring static routes between network segments. | PNETLab |
+| **LAN Cable Installation** | Practicing UTP cable crimping, RJ45 installation, and cable connectivity testing. | UTP, RJ45, LAN Tester |
+
+### 🖥️ Linux & Server Administration
+
+| Project | Description | Technologies |
+|---|---|---|
+| **Proxmox Virtualized Server Infrastructure** | Deploying Proxmox and creating Ubuntu Server LXC containers for multiple server services. | Proxmox, Ubuntu |
+| **BIND9 DNS Server** | Installing and configuring DNS zones and domain records on Ubuntu Server. | BIND9, Linux |
+| **FreeRADIUS Authentication Server** | Setting up a centralized authentication service and testing user authentication. | FreeRADIUS, Ubuntu |
+| **Multi-Service Server Environment** | Preparing separate Web, Database, File, and Application Server environments. | Proxmox, LXC |
+
+### ☁️ Cloud Computing
+
+| Project | Description | Technologies |
+|---|---|---|
+| **AWS VPC & EC2 Web Server** | Creating a virtual private cloud, configuring security groups, and launching an EC2 web server. | AWS VPC, EC2 |
+| **AWS Cloud Foundation Labs** | Exploring cloud infrastructure, storage, networking, and fundamental AWS services. | AWS, S3, Lambda, CloudFront |
+
+---
+
+## 📚 Learning Journey
+
+Things I've explored and continue to develop:
+
+- [x] Computer Networking Fundamentals
+- [x] IP Addressing & Subnetting
+- [x] MikroTik Router Configuration
+- [x] DHCP & DNS Services
+- [x] VLAN & Inter-VLAN Routing
+- [x] Static Routing & ECMP
+- [x] LAN Cable Installation
+- [x] Linux Fundamentals
+- [x] Ubuntu Server Administration
+- [x] Proxmox Virtualization
+- [x] Web, Database & File Server Fundamentals
+- [x] FreeRADIUS Authentication
+- [x] AWS Cloud Fundamentals
+- [ ] Advanced Linux Administration
+- [ ] Advanced Cloud Infrastructure
+- [ ] Network Security & Monitoring
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arumanieesss34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumanieesss34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumanieesss34&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 My Goals
+
+I'm working towards becoming a skilled IT professional with a strong foundation in:
+
+- Network Engineering & Infrastructure
+- Linux & System Administration
+- Cloud Computing & Infrastructure
 - Network Security Fundamentals
-- Git & GitHub for Project Documentation
+- Technical Problem Solving
 
-## 📊 My Learning Journey
+Every configuration, experiment, and troubleshooting session is part of my learning journey.
 
-I believe that every project, experiment, and troubleshooting session is an opportunity to learn something new.
-
-This GitHub profile serves as my personal documentation space for technical projects, networking labs, cloud computing exercises, and everything I learn along the way.
-
-**Always learning, always exploring, and always improving.**
+**Keep learning. Keep building. Keep growing.**
 
 ---
 
-### 🤝 Let's Connect!
+<p align="center">
+  <i>"Turning curiosity into skills, and knowledge into real-world experience."</i>
+</p>
 
-I'm always open to learning, sharing knowledge, and connecting with people who are interested in technology.
-
-📍 Indonesia
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7C3AED&height=100&section=footer" width="100%" />
+</p>
