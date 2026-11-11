@@ -1,11 +1,9 @@
-<!-- Profile Header -->
+# Hi, I'm Arum Wigati! 👋
 
-<h1 align="center">Hi, I'm Arum Wigati 👋</h1>
-
-<h3 align="center">IT Student | Network Engineering | Cloud Computing</h3>
+### 💻 IT Student | Network Engineering | Cloud Computing
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+and+Network+Engineering+Student;Exploring+Network+Infrastructure;Learning+Linux+%26+Server+Administration;Building+My+Cloud+Computing+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+and+Network+Engineering+Student;Exploring+Network+Infrastructure;Learning+Linux+%26+Server+Administration;Building+Cloud+Computing+Skills" />
 </p>
 
 <p align="center">
@@ -20,14 +18,14 @@
 
 Hello! I'm **Arum Wigati**, an IT student at **SMK Negeri 1 Kota Bekasi**, majoring in **Computer and Network Engineering (TKJ)**.
 
-I'm interested in network infrastructure, system administration, Linux environments, and cloud computing. I enjoy exploring new technologies, working on hands-on technical projects, troubleshooting network problems, and documenting everything I learn.
+I'm passionate about network infrastructure, system administration, Linux environments, and cloud computing. I enjoy exploring new technologies, building hands-on projects, solving technical problems, and documenting my learning journey.
 
-I believe that practical experience is an important part of becoming a better IT professional. Through school projects, networking labs, and internship experience, I'm continuously developing my technical knowledge and problem-solving skills.
+I believe practical experience is an important part of becoming a better IT professional. Through school projects, networking labs, and internship experience, I'm continuously developing my technical knowledge and problem-solving skills.
 
-- 🎓 **Education:** SMK Negeri 1 Kota Bekasi
+- 🎓 **School:** SMK Negeri 1 Kota Bekasi
 - 📚 **Major:** Computer and Network Engineering (TKJ)
 - 📅 **Study Period:** 2024 – 2027
-- 🌐 **Location:** Indonesia
+- 🌍 **Location:** Indonesia
 - 💡 **Interests:** Networking, Linux, Server Administration & Cloud Computing
 - 🌱 **Currently Learning:** Network Infrastructure & Cloud Technologies
 
@@ -49,9 +47,9 @@ During my internship, I gained practical experience in network infrastructure ma
 - Practiced LAN cable installation, RJ45 crimping, and cable testing.
 - Configured DHCP Server and Static Lease on MikroTik.
 - Assisted with IP address configuration and network documentation.
-- Observed and practiced basic network troubleshooting.
+- Practiced basic network troubleshooting.
 
-### Technical Learning Experience
+### Technical Experience
 
 - Practiced network configuration using MikroTik RouterOS.
 - Built multi-router network topologies using PNETLab.
@@ -64,7 +62,7 @@ During my internship, I gained practical experience in network infrastructure ma
 
 ## 🛠️ Technical Skills & Technologies
 
-### Networking & Infrastructure
+### 🌐 Networking & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/MikroTik-D50000?style=for-the-badge&logo=mikrotik&logoColor=white" />
@@ -82,7 +80,7 @@ During my internship, I gained practical experience in network infrastructure ma
 - ECMP Load Balancing
 - LAN Installation & Troubleshooting
 
-### Linux & Server Administration
+### 🖥️ Linux & Server Administration
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -101,7 +99,7 @@ During my internship, I gained practical experience in network infrastructure ma
 - FreeRADIUS Authentication
 - SSH & Remote Server Management
 
-### Cloud Computing
+### ☁️ Cloud Computing
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
@@ -116,9 +114,9 @@ During my internship, I gained practical experience in network infrastructure ma
 - Amazon S3
 - AWS Lambda Fundamentals
 - Amazon CloudFront Fundamentals
-- Cloud Infrastructure & Networking Concepts
+- Cloud Infrastructure Concepts
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -137,29 +135,54 @@ A collection of my hands-on projects and technical exercises throughout my Compu
 
 ### 🌐 Network Engineering
 
-| Project | Description | Technologies |
-|---|---|---|
-| **MikroTik DHCP Server & Static Lease** | Configuring DHCP services and assigning static IP addresses to clients based on MAC addresses. | MikroTik, WinBox |
-| **ECMP Load Balancing** | Implementing two internet gateways with equal-cost routing and monitoring network traffic. | MikroTik RouterOS v7 |
-| **VLAN & Inter-VLAN Routing** | Building segmented networks and configuring communication between different VLANs. | MikroTik, Cisco, PNETLab |
-| **Static Routing Lab** | Building a multi-router topology and configuring static routes between network segments. | PNETLab |
-| **LAN Cable Installation** | Practicing UTP cable crimping, RJ45 installation, and cable connectivity testing. | UTP, RJ45, LAN Tester |
+**1. MikroTik DHCP Server with Static Lease**
+- Configured DHCP Server on MikroTik RouterOS.
+- Assigned static IP addresses based on device MAC addresses.
+- Tested client connectivity and IP allocation.
+
+**2. MikroTik ECMP Load Balancing**
+- Configured two internet gateways using MikroTik RouterOS v7.
+- Implemented Equal-Cost Multi-Path (ECMP) routing.
+- Tested connectivity and monitored network traffic.
+
+**3. VLAN & Inter-VLAN Routing**
+- Created multiple VLANs in a simulated network environment.
+- Configured VLAN gateways and inter-VLAN communication.
+- Practiced network segmentation using PNETLab.
+
+**4. Static Routing with PNETLab**
+- Built a multi-router network topology.
+- Configured static routes between multiple routers.
+- Tested connectivity between different network segments.
+
+**5. LAN Cable Installation & Crimping**
+- Practiced UTP cable installation and RJ45 connector crimping.
+- Used LAN cable testers to verify connectivity.
 
 ### 🖥️ Linux & Server Administration
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Proxmox Virtualized Server Infrastructure** | Deploying Proxmox and creating Ubuntu Server LXC containers for multiple server services. | Proxmox, Ubuntu |
-| **BIND9 DNS Server** | Installing and configuring DNS zones and domain records on Ubuntu Server. | BIND9, Linux |
-| **FreeRADIUS Authentication Server** | Setting up a centralized authentication service and testing user authentication. | FreeRADIUS, Ubuntu |
-| **Multi-Service Server Environment** | Preparing separate Web, Database, File, and Application Server environments. | Proxmox, LXC |
+**6. Proxmox Virtualized Server Infrastructure**
+- Deployed Proxmox in a virtualized environment.
+- Created Ubuntu Server 24.04 LXC containers.
+- Prepared separate environments for Web, Database, File, and Application Servers.
+
+**7. BIND9 DNS Server Configuration**
+- Installed and configured BIND9 on Ubuntu Server.
+- Created DNS zone files and domain records.
+- Validated DNS configuration using Linux commands.
+
+**8. FreeRADIUS Authentication Server**
+- Installed and configured FreeRADIUS on Ubuntu Server.
+- Tested user authentication using `radtest`.
+- Verified authentication responses through Access-Accept.
 
 ### ☁️ Cloud Computing
 
-| Project | Description | Technologies |
-|---|---|---|
-| **AWS VPC & EC2 Web Server** | Creating a virtual private cloud, configuring security groups, and launching an EC2 web server. | AWS VPC, EC2 |
-| **AWS Cloud Foundation Labs** | Exploring cloud infrastructure, storage, networking, and fundamental AWS services. | AWS, S3, Lambda, CloudFront |
+**9. AWS VPC & EC2 Web Server**
+- Explored Amazon VPC and its networking components.
+- Configured security groups.
+- Launched an EC2 instance.
+- Practiced deploying a basic web server.
 
 ---
 
@@ -189,17 +212,17 @@ Things I've explored and continue to develop:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arumanieesss34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumanieesss34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arumaniesss34&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumaniesss34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumanieesss34&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumaniesss34&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🎯 My Goals
+## 🎯 Future Goals
 
 I'm working towards becoming a skilled IT professional with a strong foundation in:
 
